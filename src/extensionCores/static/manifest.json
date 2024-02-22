@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
-    "16": "logo.png",
-    "48": "logo.png",
-    "128": "logo.png"
+    "16": "logo_16x16.png",
+    "48": "logo_16x16.png",
+    "128": "logo_16x16.png"
   },
   "action": {
     "default_popup": "popup.html",
     "default_title": "Chrome Extension Template",
-    "default_icon": "logo.png"
+    "default_icon": "logo_16x16.png"
   },
   "permissions": ["tabs", "contextMenus", "storage", "scripting"],
   "options_page": "options.html",
